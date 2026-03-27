@@ -1,5 +1,5 @@
 #C programming - Logic Exercises
-# c-if-else-logics
+
 
 ## Topics
 - if statements
